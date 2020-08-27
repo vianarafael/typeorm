@@ -3,7 +3,7 @@
   "host": "localhost",
   "port": 5432,
   "username": "postgres",
-  "password": "shack",
+  "password": "sharck",
   "database": "db_tasks",
   "synchronize": true,
   "logging": false,
